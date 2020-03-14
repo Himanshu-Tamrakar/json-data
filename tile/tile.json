@@ -1,26 +1,26 @@
 [
     {
-      "name": "Germany",
-      "value": 894
+      "name": "Kerela",
+      "value": 19
     },
     {
-      "name": "USA",
-      "value": 5000000
+      "name": "Delhi",
+      "value": 7
     },
     {
-      "name": "France",
-      "value": 7200000
+      "name": "Uttar Pradesh",
+      "value": 11
     },
     {
-      "name": "UK",
-      "value": 5200000
+      "name": "Maharashtra",
+      "value": 14
     },
     {
-      "name": "Italy",
-      "value": 7700000
+      "name": "Karnataka",
+      "value": 6
     },
     {
-      "name": "Spain",
-      "value": 4300000
+      "name": "Punjab",
+      "value": 1
     }
   ]
