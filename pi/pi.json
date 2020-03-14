@@ -1,9 +1,7 @@
-export var single = [
+[
     {
       "name": "Delhi",
       "value": 7
-      "name2": "Deaths"
-      "value2": 1
     },
     {
       "name": "Haryana",
@@ -53,4 +51,4 @@ export var single = [
       "name": "Andhra Pradesh",
       "value": 1
     }
-  ];
+  ]
