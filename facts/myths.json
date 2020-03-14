@@ -1,0 +1,51 @@
+require 5.ts
+require 6.ts
+require 7.ts
+require 8.ts
+require 9.ts
+require 10.ts
+{
+	"myths":[
+		{
+			"title": "Myth: A vaccine is likely to be ready within the next month or so",
+			"data": "5.ts",
+			"img": "https://m.economictimes.com/thumb/msid-74212489,width-1200,height-900,resizemode-4,imgsize-84066/corona-agencies.jpg",
+			"src": "Analysis by EIU Healthcare, supported by Reckitt Benckiser"
+		},
+		{
+			"title": "Myth: Airport temperature screening for arriving passengers can ‘stop’ coronavirus",
+			"data": "6.ts",
+			"img": "https://images.pexels.com/photos/804463/pexels-photo-804463.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+			"src": "Analysis by EIU Healthcare"
+		},
+		{
+			"title": "Myth: Masks completely protect the general public from coronavirus",
+			"data": "7.ts",
+			"img": "https://image.shutterstock.com/image-photo/bangkok-thailand-january-14-2019-260nw-1286643355.jpg",
+			"src": "Analysis by EIU Healthcare"
+		},
+		{
+			"title": "Coronavirus Poll",
+			"data": "8.ts",
+			"img": "https://theengineer.markallengroup.com/production/2020/03/stock-exchange-4880802_1920.jpg",
+			"src": "RB"
+		},
+		{
+			"title": "Myth: Gargling salt water ‘eliminates’ coronavirus",
+			"data": "9.ts",
+			"img": "https://assets.rappler.com/612F469A6EA84F6BAE882D2B94A4B421/img/0D475DF964DB4DED80E9DD32D6EE1238/fact-check-carousel-6_0D475DF964DB4DED80E9DD32D6EE1238.jpg",
+			"src": "https://www.rappler.com/newsbreak/fact-check/254504-gargling-salt-water-eliminates-coronavirus"
+		}
+	]
+
+	
+},
+{
+	"Conspiracy": 
+		{
+			"title": "Crazy Conspiracy Theories",
+			"data": "10.ts",
+			"img": "https://www.zerohedge.com/sites/default/files/inline-images/11-6-696x392.jpg?itok=rSD-McMe",
+			"src": "https://listverse.com/2020/03/12/top-10-crazy-conspiracy-theories-surrounding-the-chinese-coronavirus/"
+		}
+}
