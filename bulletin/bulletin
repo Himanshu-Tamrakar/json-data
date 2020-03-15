@@ -3,9 +3,9 @@
 
 {
     "india": {
-        "total": 104,
+        "total": 118,
         "foriener": 17,
-        "indians": 76,
+        "indians": 90,
         "cured":9,
         "death": 2,
         "bulletins": [
@@ -161,9 +161,9 @@
 
 {
     "Telengana": {
-        "total": 2,
+        "total": 4,
         "foriener": 0,
-        "indians": 1,
+        "indians": 3,
         "cured":1,
         "death": 0,
         "bulletins": [
@@ -392,9 +392,9 @@
 
 {
     "Maharashtra": {
-        "total": 19,
+        "total": 31,
         "foriener": 0,
-        "indians": 19,
+        "indians": 31,
         "cured":0,
         "death": 0,
         "bulletins": [
