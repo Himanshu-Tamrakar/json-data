@@ -3,42 +3,7 @@ require 2.ts
 require 3.ts
 require 4.ts
 {
-	"facts": [{
-		"title": "Coronavirus reaches the halls of power",
-		"img": "https://citi.io/wp-content/uploads/2015/10/1327-00-layoverguide-1263x560.jpg",
-		"sources":"https://economictimes.indiatimes.com/news/international/world-news/coronavirus-reaches-the-halls-of-power/donald-trump-will-be-tested-for-covid-19/slideshow/74625626.cms" ,
-		"data": [{
-					"key": "1.Donald Trump will be tested for COVID-19",
-					"value": "President Donald Trump said Friday he will `most likely be tested for the novel coronavirus, as questions swirled about why he, his top aides and his family weren't doing more to protect themselves and others after repeated exposure to COVID-19. Trump has now had multiple direct and indirect contacts with people who have tested positive for the pandemic virus.",
-					"img": "https://img.etimg.com/thumb/msid-74625626,width-640,resizemode-4,imgsize-158579/donald-trump-will-be-tested-for-covid-19.jpg"
-				},
-				{
-					"key": "2.Australian minister who met with Ivanka says he has virus",
-					"value": "A senior Australian politician tested positive for the new coronavirus and was quarantined in hospital on Friday, days after returning from Washington where he met Ivanka Trump and US attorney general William Barr. Home affairs minister Peter Dutton was in the US last week for a meeting with members of the FiveEyes intelligence alliance — Australia, the US, Britain, Canada and New Zealand — that included Barr.",
-					"img": "https://img.etimg.com/thumb/msid-74625621,width-640,resizemode-4,imgsize-253100/australian-minister-who-met-with-ivanka-says-he-has-virus.jpg"
-
-				},
-				{
-					"key": "3.Trudeau quarantined after wife tests positive",
-					"value": "The wife of Canadian Prime Minister Justin Trudeau has tested positive for the new coronavirus, his office said late Thursday. “Sophie Gregoire-Trudeau was tested for Covid-19 today. The test came back positive,” the prime minister’s office said in a statement.",
-					"img": "https://img.etimg.com/thumb/msid-74625600,width-640,resizemode-4,imgsize-227800/trudeau-quarantined-after-wife-tests-positive.jpg"
-				},
-				{
-					"key": "4.Tom Hanks tests positive, wife shares 'Quarantunes' playlist",
-					"value": "As American actor Rita Wilson continues to recover from coronavirus alongside hubby Tom Hanks, she put together her own 'Quarantunes' playlist to help others facing a similar situation. The 63-year-old actor took to Twitter on Friday (local time), and tweeted, 'Hi guys! I want to make a @Spotify playlist for people self quarantining. Something that might relate to isolation, perhaps? Can you send some song ideas that I can add? Also, what should we call it? Quarantine Choruses? This is what one does in quarantine. [You] think of stuff like this.'",
-					"img": "https://img.etimg.com/thumb/msid-74625592,width-640,resizemode-4,imgsize-233890/tom-hanks-tests-positive-wife-shares-quarantunes-playlist.jpg"
-				},
-				{
-					"key": "5.Brazilian President awaits result",
-					"value": "The leader of Brazil, Jair Bolsonaro, is awaiting results of his own test after an aide fell ill. Bolsonaro's communications director, Fabio Wajngarten, tested positive just days after traveling with Bolsonaro to a meeting with U.S. President Donald Trump and senior aides in Florida.",
-					"img": "https://img.etimg.com/thumb/msid-74625568,width-640,resizemode-4,imgsize-100726/brazilian-president-awaits-result.jpg"
-				},
-				{
-					"key": "Arsenal manager tests positive for coronavirus",
-					"value": "Arsenal manager Mikel Arteta has gone into isolation after testing positive.",
-					"img": "https://img.etimg.com/thumb/msid-74625536,width-640,resizemode-4,imgsize-120586/arsenal-manager-tests-positive-for-coronavirus.jpg"
-				}]
-			},
+	"facts": [
 			{
 				"title": "The Coronavirus Is Deadlier For Men",
 				"data": "1.ts",
